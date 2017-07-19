@@ -9,7 +9,7 @@ $(function(){
 }
    
    function changeSlide() { 
-      carouselList.animate({'marginLeft':-500}, 500, moveFirstSlide);
+      carouselList.animate({'marginLeft':-400}, 400, moveFirstSlide);
     }
   
   
